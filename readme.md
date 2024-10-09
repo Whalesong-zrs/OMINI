@@ -67,30 +67,30 @@ Text Description: A rotated pumpkin jumping on a stump.
   <!-- 第一行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_dc.gif" alt="GIF 1" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_dc.gif" alt="GIF 1" width="500"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_is.gif" alt="GIF 2" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_is.gif" alt="GIF 2" width="500"><br>
       <p>By Image Sculpting</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_our.gif" alt="GIF 3" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_our.gif" alt="GIF 3" width="500"><br>
       <p>Ours</p>
     </td>
   </tr>
   <!-- 第二行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_pika.gif" alt="GIF 4" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_pika.gif" alt="GIF 4" width="500"><br>
       <p>By Pika Video Model</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_svd.gif" alt="GIF 5" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_svd.gif" alt="GIF 5" width="500"><br>
       <p>By SVD</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_kling.gif" alt="GIF 6" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_kling.gif" alt="GIF 6" width="500"><br>
       <p>ByKling Video Model</p>
     </td>
   </tr>
@@ -106,30 +106,30 @@ Text Description: A rotated pumpkin jumping on a stump.
   <!-- 第一行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_dc.gif" alt="GIF 1" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_dc.gif" alt="GIF 1" width="500"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_is.gif" alt="GIF 2" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_is.gif" alt="GIF 2" width="500"><br>
       <p>By Image Sculpting</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_our.gif" alt="GIF 3" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_our.gif" alt="GIF 3" width="500"><br>
       <p>Ours</p>
     </td>
   </tr>
   <!-- 第二行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_pika.gif" alt="GIF 4" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_pika.gif" alt="GIF 4" width="500"><br>
       <p>By Pika Video Model</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_svd.gif" alt="GIF 5" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_svd.gif" alt="GIF 5" width="500"><br>
       <p>By SVD</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_kling.gif" alt="GIF 6" width="250"><br>
+      <img src="demo/videos/gif_comparison/pumpkin_kling.gif" alt="GIF 6" width="500"><br>
       <p>By Kling Video Model</p>
     </td>
   </tr>
@@ -142,30 +142,30 @@ Text Description: An elephant is walking on the ground.
   <!-- 第一行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_dc.gif" alt="GIF 1" width="250"><br>
+      <img src="demo/videos/gif_comparison/elephant_dc.gif" alt="GIF 1" width="500"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_is.gif" alt="GIF 2" width="250"><br>
+      <img src="demo/videos/gif_comparison/elephant_is.gif" alt="GIF 2" width="500"><br>
       <p>By Image Sculpting</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_our.gif" alt="GIF 3" width="250"><br>
+      <img src="demo/videos/gif_comparison/elephant_our.gif" alt="GIF 3" width="500"><br>
       <p>Ours</p>
     </td>
   </tr>
   <!-- 第二行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_pika.gif" alt="GIF 4" width="250"><br>
+      <img src="demo/videos/gif_comparison/elephant_pika.gif" alt="GIF 4" width="500"><br>
       <p>By Pika Video Model</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_svd.gif" alt="GIF 5" width="250"><br>
+      <img src="demo/videos/gif_comparison/elephant_svd.gif" alt="GIF 5" width="500"><br>
       <p>By SVD</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_kling.gif" alt="GIF 6" width="250"><br>
+      <img src="demo/videos/gif_comparison/elephant_kling.gif" alt="GIF 6" width="500"><br>
       <p>By Kling Video Model</p>
     </td>
   </tr>
@@ -178,30 +178,30 @@ Text Description: A boxtoy greeting on the keyboard.
   <!-- 第一行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/box_dc.gif" alt="GIF 1" width="250"><br>
+      <img src="demo/videos/gif_comparison/box_dc.gif" alt="GIF 1" width="500"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/box_is.gif" alt="GIF 2" width="250"><br>
+      <img src="demo/videos/gif_comparison/box_is.gif" alt="GIF 2" width="500"><br>
       <p>By Image Sculpting</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/box_our.gif" alt="GIF 3" width="250"><br>
+      <img src="demo/videos/gif_comparison/box_our.gif" alt="GIF 3" width="500"><br>
       <p>Ours</p>
     </td>
   </tr>
   <!-- 第二行 -->
   <tr>
     <td align="center">
-      <img src="demo/videos/gif_comparison/box_pika.gif" alt="GIF 4" width="250"><br>
+      <img src="demo/videos/gif_comparison/box_pika.gif" alt="GIF 4" width="500"><br>
       <p>By Pika Video Model</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/box_svd.gif" alt="GIF 5" width="250"><br>
+      <img src="demo/videos/gif_comparison/box_svd.gif" alt="GIF 5" width="500"><br>
       <p>By SVD</p>
     </td>
     <td align="center">
-      <img src="demo/videos/gif_comparison/box_kling.gif" alt="GIF 6" width="250"><br>
+      <img src="demo/videos/gif_comparison/box_kling.gif" alt="GIF 6" width="500"><br>
       <p>By Kling Video Model</p>
     </td>
   </tr>
