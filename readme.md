@@ -1,8 +1,26 @@
 <h1 align="center"><strong>OMG3D: 3D Object Manipulation in a Single Image Using Generative Models</strong></h1>
 
-
+<!-- 
 | ![GIF 1](demo/videos/gif_application/box_walk.gif) | ![GIF 2](demo/videos/gif_application/box_greet.gif) | ![GIF 3](demo/videos/gif_application/plane.gif) | ![GIF 4](demo/videos/gif_application/pumpkin.gif) | ![GIF 5](demo/videos/gif_application/elephant.gif) |
-|-----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+|-----------------------------|----------------------------|----------------------------|----------------------------|----------------------------| -->
+
+<!-- 第一行：显示四个 GIF -->
+<!-- | ![GIF 1](demo/videos/gif_application/michelle.gif) | ![GIF 2](demo/videos/gif_application/box_greet.gif) | ![GIF 3](demo/videos/gif_application/plane.gif) | ![GIF 4](demo/videos/gif_application/box_walk.gif) |
+|-----------------------------|----------------------------|----------------------------|----------------------------|
+
+
+|              ![GIF 5](demo/videos/gif_application/pumpkin.gif)             |           ![GIF 6](demo/videos/gif_application/pete.gif)          |           ![GIF 7](demo/videos/gif_application/elephant.gif)          |
+|:----------------------------------:|:----------------------------------:|:----------------------------------:| -->
+
+<!-- 第一行：四个 GIF -->
+| ![GIF 1](demo/videos/gif_application/pumpkin.gif) | ![GIF 2](demo/videos/gif_application/box_greet.gif) | ![GIF 3](demo/videos/gif_application/plane.gif) | ![GIF 4](demo/videos/gif_application/box_walk.gif) |
+|-----------------------------|----------------------------|----------------------------|----------------------------|
+
+<!-- 第二行：三张 GIF 居中，两侧空单元格保持等宽 -->
+|                             | ![GIF 5](demo/videos/gif_application/michelle.gif) | ![GIF 6](demo/videos/gif_application/pete.gif) | ![GIF 7](demo/videos/gif_application/elephant.gif) |
+|:---------------------------:|:----------------------------:|:----------------------------:|:---------------------------:|
+
+
 
 <p align="center"><b>Applications of OMG3D.</b></p>
 
