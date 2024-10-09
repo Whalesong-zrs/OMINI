@@ -40,12 +40,24 @@
 </section>
 <hr>
 
-![Alt text](demo/images/pipeline.jpg)
+<!-- ![Alt text](demo/images/pipeline.jpg)
 
 <p align="center"><b>Model structure of our model, OMG3D.</b></p>
 
 ![Alt text](demo/images/edit_compare.jpg)
 <p align="center"><b>Comparison with other image edit methods. </b></p>
+ -->
+<p align="center"><b>Model structure of our model, OMG3D.</b></p>
+<p align="center">
+  <img src="demo/images/pipeline.jpg" alt="Model structure of our model, OMG3D" width="600">
+</p>
+
+<p align="center"><b>Comparison with other image edit methods.</b></p>
+<p align="center">
+  <img src="demo/images/edit_compare.jpg" alt="Comparison with other image edit methods" width="600">
+</p>
+
+
 <hr>
 
 <div align="center">
