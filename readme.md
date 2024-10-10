@@ -115,45 +115,6 @@ Text Description: A rotated pumpkin jumping on a stump.
 </table>
 
 <br>
-
-
-<center>
-Text Description: A rotated pumpkin jumping on a stump.
-
-<table align="center">
-  <!-- 第一行 -->
-  <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_dc.gif" alt="GIF 1" width="500"><br>
-      <p>By DynamiCrafter</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_is.gif" alt="GIF 2" width="500"><br>
-      <p>By Image Sculpting</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_our.gif" alt="GIF 3" width="500"><br>
-      <p>Ours</p>
-    </td>
-  </tr>
-  <!-- 第二行 -->
-  <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_pika.gif" alt="GIF 4" width="500"><br>
-      <p>By Pika Video Model</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_svd.gif" alt="GIF 5" width="500"><br>
-      <p>By SVD</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_kling.gif" alt="GIF 6" width="500"><br>
-      <p>By Kling Video Model</p>
-    </td>
-  </tr>
-</table>
-
-<br>
 Text Description: An elephant is walking on the ground.
 
 <table align="center">
