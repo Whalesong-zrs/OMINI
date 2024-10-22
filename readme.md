@@ -84,34 +84,38 @@ Text Description: A rotated pumpkin jumping on a stump.
 <table>
   <!-- 第一行 -->
   <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_dc.gif" alt="GIF 1" width="500"><br>
-      <p>By DynamiCrafter</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_is.gif" alt="GIF 2" width="500"><br>
-      <p>By Image Sculpting</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_our.gif" alt="GIF 3" width="500"><br>
-      <p>Ours</p>
-    </td>
-  </tr>
-  <!-- 第二行 -->
-  <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_pika.gif" alt="GIF 4" width="500"><br>
-      <p>By Pika Video Model</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_svd.gif" alt="GIF 5" width="500"><br>
-      <p>By SVD</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/pumpkin_kling.gif" alt="GIF 6" width="500"><br>
-      <p>ByKling Video Model</p>
-    </td>
-  </tr>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/pumpkin_dc.gif" alt="GIF 1" width="500"><br>
+    <p>By DynamiCrafter</p>
+  </td>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/pumpkin_is.gif" alt="GIF 2" width="500"><br>
+    <p>By Image Sculpting</p>
+  </td>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/pumpkin_our.gif" alt="GIF 3" width="500"><br>
+    <p>Ours</p>
+  </td>
+</tr>
+
+<!-- 第二行 -->
+<tr>
+  <td colspan="3" align="center">
+    <div style="display: flex; justify-content: center; max-width: 1500px;">
+      <div style="text-align: center; width: 33.33%;">
+        <img src="demo/videos/gif_comparison/pumpkin_pika.gif" alt="GIF 4" width="500"><br>
+        <p>By Pika Video Model</p>
+      </div>
+      <div style="text-align: center; width: 33.33%; margin-left: 20px;">
+        <img src="demo/videos/gif_comparison/pumpkin_svd.gif" alt="GIF 5" width="500"><br>
+        <p>By SVD</p>
+      </div>
+    </div>
+  </td>
+</tr>
+
+
+
 </table>
 
 <br>
@@ -119,35 +123,36 @@ Text Description: An elephant is walking on the ground.
 
 <table align="center">
   <!-- 第一行 -->
-  <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_dc.gif" alt="GIF 1" width="500"><br>
-      <p>By DynamiCrafter</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_is.gif" alt="GIF 2" width="500"><br>
-      <p>By Image Sculpting</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_our.gif" alt="GIF 3" width="500"><br>
-      <p>Ours</p>
-    </td>
-  </tr>
-  <!-- 第二行 -->
-  <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_pika.gif" alt="GIF 4" width="500"><br>
-      <p>By Pika Video Model</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_svd.gif" alt="GIF 5" width="500"><br>
-      <p>By SVD</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/elephant_kling.gif" alt="GIF 6" width="500"><br>
-      <p>By Kling Video Model</p>
-    </td>
-  </tr>
+   <tr>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/elephant_dc.gif" alt="GIF 1" width="500"><br>
+    <p>By DynamiCrafter</p>
+  </td>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/elephant_is.gif" alt="GIF 2" width="500"><br>
+    <p>By Image Sculpting</p>
+  </td>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/elephant_our.gif" alt="GIF 3" width="500"><br>
+    <p>Ours</p>
+  </td>
+</tr>
+
+<!-- 第二行 -->
+<tr>
+  <td colspan="3" align="center">
+    <div style="display: flex; justify-content: center; max-width: 1500px;">
+      <div style="text-align: center; width: 33.33%;">
+        <img src="demo/videos/gif_comparison/elephant_pika.gif" alt="GIF 4" width="500"><br>
+        <p>By Pika Video Model</p>
+      </div>
+      <div style="text-align: center; width: 33.33%; margin-left: 20px;">
+        <img src="demo/videos/gif_comparison/elephant_svd.gif" alt="GIF 5" width="500"><br>
+        <p>By SVD</p>
+      </div>
+    </div>
+  </td>
+</tr>
 </table>
 
 <br>
@@ -155,34 +160,36 @@ Text Description: A boxtoy greeting on the keyboard.
 
 <table align="center">
   <!-- 第一行 -->
-  <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/box_dc.gif" alt="GIF 1" width="500"><br>
-      <p>By DynamiCrafter</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/box_is.gif" alt="GIF 2" width="500"><br>
-      <p>By Image Sculpting</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/box_our.gif" alt="GIF 3" width="500"><br>
-      <p>Ours</p>
-    </td>
-  </tr>
-  <!-- 第二行 -->
-  <tr>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/box_pika.gif" alt="GIF 4" width="500"><br>
-      <p>By Pika Video Model</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/box_svd.gif" alt="GIF 5" width="500"><br>
-      <p>By SVD</p>
-    </td>
-    <td align="center">
-      <img src="demo/videos/gif_comparison/box_kling.gif" alt="GIF 6" width="500"><br>
-      <p>By Kling Video Model</p>
-    </td>
+   <tr>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/box_dc.gif" alt="GIF 1" width="500"><br>
+    <p>By DynamiCrafter</p>
+  </td>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/box_is.gif" alt="GIF 2" width="500"><br>
+    <p>By Image Sculpting</p>
+  </td>
+  <td align="center" style="width: 33.33%;">
+    <img src="demo/videos/gif_comparison/box_our.gif" alt="GIF 3" width="500"><br>
+    <p>Ours</p>
+  </td>
+</tr>
+
+<!-- 第二行 -->
+<tr>
+  <td colspan="3" align="center">
+    <div style="display: flex; justify-content: center; max-width: 1500px;">
+      <div style="text-align: center; width: 33.33%;">
+        <img src="demo/videos/gif_comparison/box_pika.gif" alt="GIF 4" width="500"><br>
+        <p>By Pika Video Model</p>
+      </div>
+      <div style="text-align: center; width: 33.33%; margin-left: 20px;">
+        <img src="demo/videos/gif_comparison/box_svd.gif" alt="GIF 5" width="500"><br>
+        <p>By SVD</p>
+      </div>
+    </div>
+  </td>
+</tr>
   </tr>
 </table>
 
