@@ -2,6 +2,7 @@
 
 <p align="center"><b>Applications of OMG3D.</b></p>
 <!-- 第一行：四个 GIF -->
+
 |![GIF 1](demo/videos/gif_application/elephant_our.gif) | ![GIF 2](demo/videos/gif_application/boxtoy_our.gif) |![GIF 3](demo/videos/gif_application/woodenman_our.gif) |![GIF 4](demo/videos/gif_application/pumpkin_our.gif) |
 |:---------------------------:|:----------------------------:|:----------------------------:|:---------------------------:|
 
@@ -67,33 +68,33 @@
 <table align="center">
   <tr>
     <div align="center">
-      <span style="color: #B8860B; font-size: 14px;">
+      <span style="max-width: 800px; color: #B8860B; font-size: 14px;">
         Text Description: An elephant is walking on the ground.
       </span>
     </div>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/elephant/elephant_pika.gif" alt="GIF 1" width="500"><br>
+      <img src="demo/videos/gif_comparison/elephant/elephant_pika.gif" alt="GIF 1" width="200"><br>
       <p>By Pika</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/elephant/elephant_dc.gif" alt="GIF 2" width="500"><br>
+      <img src="demo/videos/gif_comparison/elephant/elephant_dc.gif" alt="GIF 2" width="200"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/elephant/elephant_cogvideox.gif" alt="GIF 3" width="500"><br>
+      <img src="demo/videos/gif_comparison/elephant/elephant_cogvideox.gif" alt="GIF 3" width="200"><br>
       <p>CogVideoX</p>
     </td>
   </tr>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/elephant/elephant_wan.gif" alt="GIF 1" width="500"><br>
+    <img src="demo/videos/gif_comparison/elephant/elephant_wan.gif" alt="GIF 1" width="200"><br>
     <p>By Wan</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/elephant/elephant_is.gif" alt="GIF 2" width="500"><br>
+    <img src="demo/videos/gif_comparison/elephant/elephant_is.gif" alt="GIF 2" width="200"><br>
     <p>By ImgScu</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/elephant/elephant_our.gif" alt="GIF 3" width="500"><br>
+    <img src="demo/videos/gif_comparison/elephant/elephant_our.gif" alt="GIF 3" width="200"><br>
     <p>Ours</p>
   </td>
 </table>
@@ -101,33 +102,33 @@
 <table align="center">
   <tr>
     <div align="center">
-      <span style="color: #3498db; font-size: 14px;">
+      <span style="max-width: 800px; color: #3498db; font-size: 14px;">
         Text Description: A boxtoy greets and waves its hand.
       </span>
     </div>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/boxtoy/boxtoy_pika.gif" alt="GIF 1" width="500"><br>
+      <img src="demo/videos/gif_comparison/boxtoy/boxtoy_pika.gif" alt="GIF 1" width="200"><br>
       <p>By Pika</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/boxtoy/boxtoy_dc.gif" alt="GIF 2" width="500"><br>
+      <img src="demo/videos/gif_comparison/boxtoy/boxtoy_dc.gif" alt="GIF 2" width="200"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/boxtoy/boxtoy_cogvideox.gif" alt="GIF 3" width="500"><br>
+      <img src="demo/videos/gif_comparison/boxtoy/boxtoy_cogvideox.gif" alt="GIF 3" width="200"><br>
       <p>CogVideoX</p>
     </td>
   </tr>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/boxtoy/boxtoy_wan.gif" alt="GIF 1" width="500"><br>
+    <img src="demo/videos/gif_comparison/boxtoy/boxtoy_wan.gif" alt="GIF 1" width="200"><br>
     <p>By Wan</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/boxtoy/boxtoy_is.gif" alt="GIF 2" width="500"><br>
+    <img src="demo/videos/gif_comparison/boxtoy/boxtoy_is.gif" alt="GIF 2" width="200"><br>
     <p>By ImgScu</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/boxtoy/boxtoy_our.gif" alt="GIF 3" width="500"><br>
+    <img src="demo/videos/gif_comparison/boxtoy/boxtoy_our.gif" alt="GIF 3" width="200"><br>
     <p>Ours</p>
   </td>
 </table>
@@ -135,33 +136,33 @@
 <table align="center">
   <tr>
     <div align="center">
-      <span style="color: #8B7500; font-size: 14px;">
+      <span style="max-width: 800px; color: #8B7500; font-size: 14px;">
         Text Description: A woodenman sits and cheers.
       </span>
     </div>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/woodenman/woodenman_pika.gif" alt="GIF 1" width="500"><br>
+      <img src="demo/videos/gif_comparison/woodenman/woodenman_pika.gif" alt="GIF 1" width="200"><br>
       <p>By Pika</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/woodenman/woodenman_dc.gif" alt="GIF 2" width="500"><br>
+      <img src="demo/videos/gif_comparison/woodenman/woodenman_dc.gif" alt="GIF 2" width="200"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/woodenman/woodenman_cogvideox.gif" alt="GIF 3" width="500"><br>
+      <img src="demo/videos/gif_comparison/woodenman/woodenman_cogvideox.gif" alt="GIF 3" width="200"><br>
       <p>CogVideoX</p>
     </td>
   </tr>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/woodenman/woodenman_wan.gif" alt="GIF 1" width="500"><br>
+    <img src="demo/videos/gif_comparison/woodenman/woodenman_wan.gif" alt="GIF 1" width="200"><br>
     <p>By Wan</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/woodenman/woodenman_is.gif" alt="GIF 2" width="500"><br>
+    <img src="demo/videos/gif_comparison/woodenman/woodenman_is.gif" alt="GIF 2" width="200"><br>
     <p>By ImgScu</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/woodenman/woodenman_our.gif" alt="GIF 3" width="500"><br>
+    <img src="demo/videos/gif_comparison/woodenman/woodenman_our.gif" alt="GIF 3" width="200"><br>
     <p>Ours</p>
   </td>
 </table>
@@ -169,33 +170,33 @@
 <table align="center">
   <tr>
     <div align="center">
-      <span style="color: #8b0000c4; font-size: 14px;">
+      <span style="max-width: 800px; color: #8b0000c4; font-size: 14px;">
         Text Description: A rotated pumpkin jumps on a stump.
       </span>
     </div>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/pumpkin/pumpkin_pika.gif" alt="GIF 1" width="500"><br>
+      <img src="demo/videos/gif_comparison/pumpkin/pumpkin_pika.gif" alt="GIF 1" width="200"><br>
       <p>By Pika</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/pumpkin/pumpkin_dc.gif" alt="GIF 2" width="500"><br>
+      <img src="demo/videos/gif_comparison/pumpkin/pumpkin_dc.gif" alt="GIF 2" width="200"><br>
       <p>By DynamiCrafter</p>
     </td>
     <td align="center" style="width: 33.33%;">
-      <img src="demo/videos/gif_comparison/pumpkin/pumpkin_cogvideox.gif" alt="GIF 3" width="500"><br>
+      <img src="demo/videos/gif_comparison/pumpkin/pumpkin_cogvideox.gif" alt="GIF 3" width="200"><br>
       <p>CogVideoX</p>
     </td>
   </tr>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/pumpkin/pumpkin_wan.gif" alt="GIF 1" width="500"><br>
+    <img src="demo/videos/gif_comparison/pumpkin/pumpkin_wan.gif" alt="GIF 1" width="200"><br>
     <p>By Wan</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/pumpkin/pumpkin_is.gif" alt="GIF 2" width="500"><br>
+    <img src="demo/videos/gif_comparison/pumpkin/pumpkin_is.gif" alt="GIF 2" width="200"><br>
     <p>By ImgScu</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/pumpkin/pumpkin_our.gif" alt="GIF 3" width="500"><br>
+    <img src="demo/videos/gif_comparison/pumpkin/pumpkin_our.gif" alt="GIF 3" width="200"><br>
     <p>Ours</p>
   </td>
 </table>
