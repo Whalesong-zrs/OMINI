@@ -2,8 +2,8 @@
 
 <p align="center"><b>Applications of OMG3D.</b></p>
 <!-- 第一行：四个 GIF -->
-| ![GIF 1](demo/videos/gif_application/elephant_our.gif) | ![GIF 2](demo/videos/gif_application/boxtoy_our.gif) | ![GIF 3](demo/videos/gif_application/woodenman_our.gif) | ![GIF 4](demo/videos/gif_application/pumpkin_our.gif) |
-|-----------------------------|----------------------------|----------------------------|----------------------------|
+|![GIF 1](demo/videos/gif_application/elephant_our.gif) | ![GIF 2](demo/videos/gif_application/boxtoy_our.gif) |![GIF 3](demo/videos/gif_application/woodenman_our.gif) |![GIF 4](demo/videos/gif_application/pumpkin_our.gif) |
+|:---------------------------:|:----------------------------:|:----------------------------:|:---------------------------:|
 
 <!-- 第二行：三张 GIF 居中，两侧空单元格保持等宽 -->
 |![GIF 5](demo/videos/gif_application/michelle.gif) | ![GIF 6](demo/videos/gif_application/pete.gif) | ![GIF 7](demo/videos/gif_application/plane.gif) |![GIF 8](demo/videos/gif_application/dog.gif) |
