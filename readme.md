@@ -1,9 +1,9 @@
-<h1 align="center"><strong>3D Object Manipulation in a Single Image Using Generative Models</strong></h1>
+<h1 align="center"><strong>OMINI: Unlocking Object Manipulation in a Single Image</strong></h1>
 
-<p align="center"><b>Applications of OMG3D.</b></p>
+<p align="center"><b>Applications of OMINI.</b></p>
 <!-- 第一行：四个 GIF -->
 
-|![GIF 1](demo/videos/gif_application/elephant_our.gif) | ![GIF 2](demo/videos/gif_application/boxtoy_our.gif) |![GIF 3](demo/videos/gif_application/woodenman_our.gif) |![GIF 4](demo/videos/gif_application/pumpkin_our.gif) |
+|![GIF 1](demo/videos/gif_application/elephant_our.gif) | ![GIF 2](demo/videos/gif_application/boxtoy_our.gif) |![GIF 3](demo/videos/gif_application/woodenman_our2.gif) |![GIF 4](demo/videos/gif_application/pumpkin_our.gif) |
 |:---------------------------:|:----------------------------:|:----------------------------:|:---------------------------:|
 
 <!-- 第二行：三张 GIF 居中，两侧空单元格保持等宽 -->
@@ -21,28 +21,7 @@
         <h2 align="center" class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Object manipulation in images aims not only to edit the 
-            object appearances but also to animate objects. Previous
-            methods faced challenges in simultaneously handling static
-            editing and dynamic generation, while also struggling to
-            achieve fidelity in object appearance and scene lighting.
-            In this work, we introduce OMG3D, a novel framework
-            that combines precise geometric control with the generative 
-            power of diffusion models, thus achieving significant
-            improvements in visual performance. Our framework first
-            converts 2D objects into 3D, enabling user-directed modifications
-            and lifelike motion at the geometric level. To
-            address texture realism, we propose CustomRefiner, a texture
-            refinement module that pre-trains a customized diffusion model, 
-            aligning the details and style of coarse renderings from the
-            rough 3D model with the original image, further refining the texture.
-            Additionally, we introduce IllumiCombiner, a lighting processing module
-            that estimates and corrects background lighting to match human visual
-            perception, resulting in more realistic shadow effects. Extensive
-            experiments demonstrate the outstanding visual performance of 
-            our approach in both static and dynamic scenarios. Remarkably, 
-            all of these steps can be executed on a single NVIDIA 3090. The
-            code and project will be released upon the acceptance of the paper.
+            Unlocking versatile object manipulation—from appearance editing to full animation—directly from a static image remains a challenging problem. Existing methods often struggle to simultaneously support both visual modification and realistic animation, while also falling short in preserving object fidelity and realistic scene illumination. In this work, we introduce OMINI, a unified framework that addresses these challenges through two complementary strategies. First, to support both static editing and dynamic animation, OMINI operates directly on 3D object geometry thereby sharing a unified representation across tasks, enabling consistent appearance under varying poses and motions during manipulation. Second, to improve fidelity in both object appearance and scene illumination, we incorporate two dedicated modules: CGTRefiner, which refines rendered views using a concept-specific diffusion model and optimizes the UV texture map via differentiable rasterization; and IHLCorrector, which adjusts estimated lighting based on object-level color priors to enhance realism. Extensive experiments demonstrate that OMINI achieves superior performance in both static and dynamic settings, producing high-quality and visually consistent results. Notably, the entire pipeline operates efficiently on a single NVIDIA RTX 3090 GPU. Code and models will be released upon paper acceptance.
           </p>
         </div>
       </div>
@@ -51,9 +30,9 @@
 </section>
 <hr>
 
-<p align="center"><b>Model structure of our model, OMG3D.</b></p>
+<p align="center"><b>Model structure of our model, OMINI.</b></p>
 <p align="center">
-  <img src="demo/images/pipeline.png" alt="Model structure of our model, OMG3D" width="1200">
+  <img src="demo/images/model_pipeline.png" alt="Model structure of our model, OMINI" width="1200">
 </p>
 
 <p align="center"><b>Comparison with other image edit methods.</b></p>
@@ -162,7 +141,7 @@
     <p>By ImgScu</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/woodenman/woodenman_our.gif" alt="GIF 3" width="200"><br>
+    <img src="demo/videos/gif_comparison/woodenman/woodenman_our2.gif" alt="GIF 3" width="200"><br>
     <p>Ours</p>
   </td>
 </table>
