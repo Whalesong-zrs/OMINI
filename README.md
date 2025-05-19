@@ -3,7 +3,7 @@
 <p align="center"><b>Applications of OMINI.</b></p>
 <!-- 第一行：四个 GIF -->
 
-|![GIF 1](demo/videos/gif_application/elephant_our.gif) | ![GIF 2](demo/videos/gif_application/boxtoy_our.gif) |![GIF 3](demo/videos/gif_application/woodenman_our2.gif) |![GIF 4](demo/videos/gif_application/pumpkin_our.gif) |
+|![GIF 1](demo/videos/gif_application/elephant_walk2.gif) | ![GIF 2](demo/videos/gif_application/boxtoy_our.gif) |![GIF 3](demo/videos/gif_application/woodenman_our2.gif) |![GIF 4](demo/videos/gif_application/pumpkin_our.gif) |
 |:---------------------------:|:----------------------------:|:----------------------------:|:---------------------------:|
 
 <!-- 第二行：三张 GIF 居中，两侧空单元格保持等宽 -->
@@ -73,7 +73,7 @@
     <p>By ImgScu</p>
   </td>
   <td align="center" style="width: 33.33%;">
-    <img src="demo/videos/gif_comparison/elephant/elephant_our.gif" alt="GIF 3" width="200"><br>
+    <img src="demo/videos/gif_comparison/elephant/elephant_walk2.gif" alt="GIF 3" width="200"><br>
     <p>Ours</p>
   </td>
 </table>
